@@ -1,1 +1,1 @@
-The code in this repository is taken from CodeWizardHQ and modified so that kids and biginners can use and test them to learn Python code.  In each sub-folder, there are two files.  You can use etiher file.
+The code in this repository is taken from CodeWizardHQ and modified so kids and beginners can use and test it to learn Python code.  There are two files in each subfolder. You can use either file, but it is preferable to use the files named "proj10xx.py," which are better modified.
