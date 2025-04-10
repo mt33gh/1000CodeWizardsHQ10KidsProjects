@@ -1,0 +1,1 @@
+The code in this repository is taken from CodeWizardHQ and modified so that kids and biginners can use and test them to learn Python code.  In each sub-folder, there are two files.  You can use etiher file.
